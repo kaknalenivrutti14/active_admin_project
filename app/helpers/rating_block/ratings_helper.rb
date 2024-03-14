@@ -1,0 +1,2 @@
+module RatingBlock::RatingsHelper
+end

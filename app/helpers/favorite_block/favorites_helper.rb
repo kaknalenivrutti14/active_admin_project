@@ -1,0 +1,2 @@
+module FavoriteBlock::FavoritesHelper
+end

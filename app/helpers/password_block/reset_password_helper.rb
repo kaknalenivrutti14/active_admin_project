@@ -1,0 +1,2 @@
+module PasswordBlock::ResetPasswordHelper
+end
